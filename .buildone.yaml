@@ -1,0 +1,11 @@
+version: 1
+project:
+  name: UniVolunteer
+services:
+  ios-app:
+    type: ios
+    path: ./ios
+    scheme: UniVolunteer
+    configuration: Debug
+    deploymentTarget: "17.0"
+    appName: UniVolunteer

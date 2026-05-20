@@ -1,0 +1,9 @@
+name: UniVolunteer
+bundleId: co.plusminusone.UniVolunteer
+deploymentTarget: "17.0"
+sources: Sources
+architecture: mvvm-r
+navigation: navigationStack
+output:
+  type: xcodeproj
+  path: .
