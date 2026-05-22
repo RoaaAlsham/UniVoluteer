@@ -4,6 +4,7 @@
 
 **Turn volunteer work into verified career credentials — powered by AI**
 
+*🥈 2nd Place — Hackathon INO, organized by İZÜ İnovasyon Kulübü & PlusMinusOne*
 
 ![iOS 17+](https://img.shields.io/badge/iOS-17%2B-black?logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
@@ -263,6 +264,13 @@ The app was built for a hackathon. Known limitations for a production build:
 - **No PDF export** — the CV view is shareable via a link string, but a proper PDF export is not yet implemented.
 - **Single student demo** — the current seed data is scoped to one volunteer account. Multi-user support requires the backend layer.
 
+---
+
+## Built at Hackathon INO
+
+UniVolunteer was conceived, designed, and built at **Hackathon INO**, organized by [İZÜ İnovasyon Kulübü](https://www.linkedin.com/company/izu-inovasyon-kulubu) and [PlusMinusOne](https://plusminusone.co).
+
+The hackathon challenged teams to build a mobile application that solves a real-life problem in an innovative way. UniVolunteer placed **🥈 2nd** out of all competing teams.
 
 **Team**
 - [Roaa Alsham](https://www.linkedin.com/in/roaa-shalab-alsham-796415338/)
